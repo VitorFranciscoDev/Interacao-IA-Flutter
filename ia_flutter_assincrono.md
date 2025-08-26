@@ -1,9 +1,3 @@
-Perfeito 👍 Segue o conteúdo já reconstruído em formato **Markdown (.md)**, exatamente igual ao que estava no `.txt`.
-Você pode copiar e salvar como `ia_flutter_assincrono.md`:
-
----
-
-````markdown
 Pergunta: O que são isolates em flutter?
 
 Isolates em Flutter (e no Dart, que é a linguagem usada pelo Flutter) são **unidades de execução independentes** que não compartilham memória entre si. Eles são a maneira como o Dart implementa **concorrência** de forma segura, evitando problemas comuns como *race conditions* ou *deadlocks* que acontecem com o uso de *threads* tradicionais.
